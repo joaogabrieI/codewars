@@ -1,0 +1,14 @@
+D:\workspace\csharp\CodeWars\bin\Debug\net9.0\CodeWars.exe
+D:\workspace\csharp\CodeWars\bin\Debug\net9.0\CodeWars.deps.json
+D:\workspace\csharp\CodeWars\bin\Debug\net9.0\CodeWars.runtimeconfig.json
+D:\workspace\csharp\CodeWars\bin\Debug\net9.0\CodeWars.dll
+D:\workspace\csharp\CodeWars\bin\Debug\net9.0\CodeWars.pdb
+D:\workspace\csharp\CodeWars\obj\Debug\net9.0\CodeWars.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\CodeWars\obj\Debug\net9.0\CodeWars.AssemblyInfoInputs.cache
+D:\workspace\csharp\CodeWars\obj\Debug\net9.0\CodeWars.AssemblyInfo.cs
+D:\workspace\csharp\CodeWars\obj\Debug\net9.0\CodeWars.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\CodeWars\obj\Debug\net9.0\CodeWars.dll
+D:\workspace\csharp\CodeWars\obj\Debug\net9.0\refint\CodeWars.dll
+D:\workspace\csharp\CodeWars\obj\Debug\net9.0\CodeWars.pdb
+D:\workspace\csharp\CodeWars\obj\Debug\net9.0\CodeWars.genruntimeconfig.cache
+D:\workspace\csharp\CodeWars\obj\Debug\net9.0\ref\CodeWars.dll
