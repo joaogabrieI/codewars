@@ -86,4 +86,27 @@
 
         return segundaParte + " " + primeiraParte;
     }
+
+    public static string dnaToRna(string dna)
+    {
+        // StringBuilder rna = new StringBuilder(dna);
+        string result = "";
+        if (dna != null)
+        {
+            for (int i = 0; i < dna.Length; i++)
+            {
+                if (dna[i].Equals('T'))
+                {
+                    // rna[i] = 'U';
+                    result += 'U';
+                }
+                else
+                {
+                    result += dna[i];
+                }
+            }
+        }
+        //  return rna.ToString();
+        return result;
+    }
 }

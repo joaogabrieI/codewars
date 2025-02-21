@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Estoque2.1\\.nuget\\packages\\": {}
+    "C:\\Users\\Joaon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\csharp\\CodeWars\\CodeWars.csproj",
+      "projectUniqueName": "E:\\workspace\\codewars\\CodeWars.csproj",
       "projectName": "CodeWars",
-      "projectPath": "D:\\workspace\\csharp\\CodeWars\\CodeWars.csproj",
-      "packagesPath": "C:\\Users\\Estoque2.1\\.nuget\\packages\\",
-      "outputPath": "D:\\workspace\\csharp\\CodeWars\\obj\\",
+      "projectPath": "E:\\workspace\\codewars\\CodeWars.csproj",
+      "packagesPath": "C:\\Users\\Joaon\\.nuget\\packages\\",
+      "outputPath": "E:\\workspace\\codewars\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Estoque2.1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Joaon\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
